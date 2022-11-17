@@ -1,1 +1,2 @@
-# aashi-collection.github.io
+# aashi-collection
+# Minor Project 5th Sem
