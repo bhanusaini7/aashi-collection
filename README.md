@@ -1,2 +1,2 @@
 # aashi-collection
-# Minor Project 5th Sem
+# Minor Project for 5th sem
